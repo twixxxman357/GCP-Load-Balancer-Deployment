@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,github" />
+  </a>
+</p>
+
+
+
 # GCP-Load-Balancer
 
 Hello this is our submission for the first Group homework.
